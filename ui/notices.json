@@ -1,4 +1,1 @@
-{
-  "_help": "Messages shown at the top of the home screen. Each one needs a unique id. 'from' and 'to' are optional dates (YYYY-MM-DD). The person can close it; it won't show again. Example: {\"id\": \"m2-ready\", \"from\": \"2026-11-01\", \"to\": \"2026-11-30\", \"text\": \"¡Ya está el Módulo 2!\", \"text_en\": \"Module 2 is ready!\"}",
-  "notices": []
-}
+{"_help":"Messages shown at the top of the home screen. Each one needs a unique id. 'from' and 'to' are optional dates (YYYY-MM-DD). The person can close it; it won't show again. Example: {\"id\": \"m2-ready\", \"from\": \"2026-11-01\", \"to\": \"2026-11-30\", \"text\": \"¡Ya está el Módulo 2!\", \"text_en\": \"Module 2 is ready!\"}","notices":[]}
