@@ -1,0 +1,286 @@
+{
+ "app": {
+  "name": "Lumo",
+  "tagline": "Inglés desde cero"
+ },
+ "levels": [
+  {
+   "id": "A1",
+   "title": "Inglés Americano · Nivel A1",
+   "modules": [
+    {
+     "id": "a1-m01",
+     "num": 1,
+     "title": "Hello!",
+     "subtitle": "Saludos, presentaciones, el alfabeto y los números del 0 al 100",
+     "color": "#D9534F",
+     "words": 134,
+     "published": true,
+     "sample": {
+      "pkg": "data/pkg/a1-m01-sample.json"
+     },
+     "full": {
+      "key": "a1-m01.2",
+      "pkg": "content/a1-m01/a1-m01.pkg",
+      "v": "4f7c8be48a94",
+      "size": 2346189,
+      "files": [
+       [
+        "content/a1-m01/a1-m01.pkg",
+        "97a669870511f8cc",
+        48081
+       ],
+       [
+        "content/a1-m01/audio/05_A1-Modulo01-L2a.lumo",
+        "f1bdb100bf320f28",
+        95994
+       ],
+       [
+        "content/a1-m01/audio/06_A1-Modulo01-L2b.lumo",
+        "19fe627fb78dbd92",
+        73164
+       ],
+       [
+        "content/a1-m01/audio/07_A1-Modulo01-L2c.lumo",
+        "1985be8668bc677f",
+        31686
+       ],
+       [
+        "content/a1-m01/audio/08_A1-Modulo01-L3a.lumo",
+        "6afc956d8fd05bef",
+        128430
+       ],
+       [
+        "content/a1-m01/audio/09_A1-Modulo01-L3b.lumo",
+        "5393e6f346259512",
+        60676
+       ],
+       [
+        "content/a1-m01/audio/10_A1-Modulo01-L4a.lumo",
+        "9f76ef36f0896837",
+        105404
+       ],
+       [
+        "content/a1-m01/audio/11_A1-Modulo01-L4b.lumo",
+        "24aaa7f6f407d137",
+        47580
+       ],
+       [
+        "content/a1-m01/audio/12_A1-Modulo01-L4c.lumo",
+        "964476d733a1ea63",
+        72991
+       ],
+       [
+        "content/a1-m01/audio/13_A1-Modulo01-L5a.lumo",
+        "48b85733acf6e605",
+        80558
+       ],
+       [
+        "content/a1-m01/audio/14_A1-Modulo01-L5b.lumo",
+        "0830fa19176c4fef",
+        51444
+       ],
+       [
+        "content/a1-m01/audio/15_A1-Modulo01-L5c.lumo",
+        "e2782a8d35782578",
+        39769
+       ],
+       [
+        "content/a1-m01/audio/16_A1-Modulo01-L5d.lumo",
+        "6829d1bd74ed9445",
+        17765
+       ],
+       [
+        "content/a1-m01/audio/17_A1-Modulo01-L5e.lumo",
+        "a3ad1f84c7c58673",
+        23761
+       ],
+       [
+        "content/a1-m01/audio/18_A1-Modulo01-L6a.lumo",
+        "ac1a7e5befa4ca60",
+        109737
+       ],
+       [
+        "content/a1-m01/audio/19_A1-Modulo01-L6b.lumo",
+        "3fe6fd6e18881697",
+        37658
+       ],
+       [
+        "content/a1-m01/audio/25_A1-Modulo01-FC06.lumo",
+        "8f8c6aaca3f2a49f",
+        37697
+       ],
+       [
+        "content/a1-m01/audio/26_A1-Modulo01-FC07.lumo",
+        "46c8155308e9213a",
+        23271
+       ],
+       [
+        "content/a1-m01/audio/27_A1-Modulo01-FC08.lumo",
+        "23e7749cdd2d9368",
+        131432
+       ],
+       [
+        "content/a1-m01/audio/28_A1-Modulo01-FC09.lumo",
+        "8d4c938f718a1b1c",
+        54648
+       ],
+       [
+        "content/a1-m01/audio/29_A1-Modulo01-FC10.lumo",
+        "f11cb3eabaaf9d86",
+        30206
+       ],
+       [
+        "content/a1-m01/audio/30_A1-Modulo01-FC11.lumo",
+        "27d582d3ea889254",
+        49414
+       ],
+       [
+        "content/a1-m01/audio/31_A1-Modulo01-FC12.lumo",
+        "9470004e25e57ee1",
+        53175
+       ],
+       [
+        "content/a1-m01/audio/32_A1-Modulo01-FC13.lumo",
+        "411155d1d563c0a4",
+        41413
+       ],
+       [
+        "content/a1-m01/audio/33_A1-Modulo01-FC14.lumo",
+        "f1cc952d9f7aaef6",
+        21976
+       ],
+       [
+        "content/a1-m01/audio/34_A1-Modulo01-FC15.lumo",
+        "d463e15f964e39fa",
+        17855
+       ],
+       [
+        "content/a1-m01/audio/35_A1-Modulo01-FC16.lumo",
+        "595b2f19fa043917",
+        17943
+       ],
+       [
+        "content/a1-m01/audio/36_A1-Modulo01-FC17.lumo",
+        "dd811746522a173f",
+        19441
+       ],
+       [
+        "content/a1-m01/audio/37_A1-Modulo01-FC18.lumo",
+        "64db30b9a1bd20a0",
+        21688
+       ],
+       [
+        "content/a1-m01/audio/38_A1-Modulo01-FC19.lumo",
+        "e65a6f4c9be3e32e",
+        13950
+       ],
+       [
+        "content/a1-m01/audio/39_A1-Modulo01-FC20.lumo",
+        "46e1032ad0c3a6ba",
+        21138
+       ],
+       [
+        "content/a1-m01/audio/41_A1-Modulo01-Ej08.lumo",
+        "c6cb32c913e28eb4",
+        420413
+       ],
+       [
+        "content/a1-m01/audio/42_A1-Modulo01-Ej12-modelo.lumo",
+        "321d949d52d7952c",
+        87401
+       ],
+       [
+        "content/a1-m01/audio/43_A1-Modulo01-Eval-D.lumo",
+        "afefe5a85ab09d90",
+        258430
+       ]
+      ]
+     }
+    },
+    {
+     "id": "a1-m02",
+     "num": 2,
+     "title": "Where are you from?",
+     "subtitle": "Países, nacionalidades, idiomas y datos personales",
+     "color": "#2E86AB",
+     "words": 118,
+     "published": false
+    },
+    {
+     "id": "a1-m03",
+     "num": 3,
+     "title": "My Family",
+     "subtitle": "La familia, los posesivos y cómo describir a las personas",
+     "color": "#8E44AD",
+     "words": 102,
+     "published": false
+    },
+    {
+     "id": "a1-m04",
+     "num": 4,
+     "title": "Daily Life",
+     "subtitle": "La hora, los días de la semana y tu rutina diaria",
+     "color": "#E67E22",
+     "words": 106,
+     "published": false
+    },
+    {
+     "id": "a1-m05",
+     "num": 5,
+     "title": "Work and Study",
+     "subtitle": "Profesiones, la vida universitaria y preguntas con do / does",
+     "color": "#16A085",
+     "words": 118,
+     "published": false
+    },
+    {
+     "id": "a1-m06",
+     "num": 6,
+     "title": "Food and Drinks",
+     "subtitle": "Comidas y bebidas, precios en dólares y cómo pedir en un restaurante",
+     "color": "#689F38",
+     "words": 125,
+     "published": false
+    },
+    {
+     "id": "a1-m07",
+     "num": 7,
+     "title": "Home and Town",
+     "subtitle": "Tu casa, tu barrio y cómo pedir y dar direcciones",
+     "color": "#3949AB",
+     "words": 120,
+     "published": false
+    },
+    {
+     "id": "a1-m08",
+     "num": 8,
+     "title": "Shopping and Clothes",
+     "subtitle": "Ropa, colores, tallas y compras con el present continuous",
+     "color": "#C2185B",
+     "words": 104,
+     "published": false
+    },
+    {
+     "id": "a1-m09",
+     "num": 9,
+     "title": "Free Time",
+     "subtitle": "Pasatiempos, habilidades, el clima, fechas e invitaciones",
+     "color": "#00838F",
+     "words": 117,
+     "published": false
+    },
+    {
+     "id": "a1-m10",
+     "num": 10,
+     "title": "Past and Future",
+     "subtitle": "Lo que hiciste y lo que vas a hacer: past simple y be going to",
+     "color": "#455A64",
+     "words": 101,
+     "published": false
+    }
+   ]
+  }
+ ],
+ "rev": "02b5420d2f3a"
+}
