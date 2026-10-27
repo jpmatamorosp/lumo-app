@@ -12,6 +12,8 @@
      "id": "a1-m01",
      "num": 1,
      "title": "Hello!",
+     "title_es": "¡Hola!",
+     "primary": "es",
      "subtitle": "Saludos, presentaciones, el alfabeto y los números del 0 al 100",
      "color": "#D9534F",
      "words": 134,
@@ -22,13 +24,13 @@
      "full": {
       "key": "a1-m01.2",
       "pkg": "content/a1-m01/a1-m01.pkg",
-      "v": "4f7c8be48a94",
-      "size": 2346189,
+      "v": "5aa5e3f4d430",
+      "size": 2347640,
       "files": [
        [
         "content/a1-m01/a1-m01.pkg",
-        "97a669870511f8cc",
-        48081
+        "fa76ac28797adac4",
+        49532
        ],
        [
         "content/a1-m01/audio/05_A1-Modulo01-L2a.lumo",
@@ -202,6 +204,8 @@
      "id": "a1-m02",
      "num": 2,
      "title": "Where are you from?",
+     "title_es": "¿De dónde eres?",
+     "primary": "es",
      "subtitle": "Países, nacionalidades, idiomas y datos personales",
      "color": "#2E86AB",
      "words": 118,
@@ -211,6 +215,8 @@
      "id": "a1-m03",
      "num": 3,
      "title": "My Family",
+     "title_es": "Mi familia",
+     "primary": "es",
      "subtitle": "La familia, los posesivos y cómo describir a las personas",
      "color": "#8E44AD",
      "words": 102,
@@ -220,6 +226,8 @@
      "id": "a1-m04",
      "num": 4,
      "title": "Daily Life",
+     "title_es": "La vida diaria",
+     "primary": "es",
      "subtitle": "La hora, los días de la semana y tu rutina diaria",
      "color": "#E67E22",
      "words": 106,
@@ -229,6 +237,8 @@
      "id": "a1-m05",
      "num": 5,
      "title": "Work and Study",
+     "title_es": "Trabajo y estudio",
+     "primary": "es",
      "subtitle": "Profesiones, la vida universitaria y preguntas con do / does",
      "color": "#16A085",
      "words": 118,
@@ -238,6 +248,8 @@
      "id": "a1-m06",
      "num": 6,
      "title": "Food and Drinks",
+     "title_es": "Comidas y bebidas",
+     "primary": "es",
      "subtitle": "Comidas y bebidas, precios en dólares y cómo pedir en un restaurante",
      "color": "#689F38",
      "words": 125,
@@ -247,6 +259,8 @@
      "id": "a1-m07",
      "num": 7,
      "title": "Home and Town",
+     "title_es": "La casa y la ciudad",
+     "primary": "es",
      "subtitle": "Tu casa, tu barrio y cómo pedir y dar direcciones",
      "color": "#3949AB",
      "words": 120,
@@ -256,6 +270,8 @@
      "id": "a1-m08",
      "num": 8,
      "title": "Shopping and Clothes",
+     "title_es": "Compras y ropa",
+     "primary": "es",
      "subtitle": "Ropa, colores, tallas y compras con el present continuous",
      "color": "#C2185B",
      "words": 104,
@@ -265,6 +281,8 @@
      "id": "a1-m09",
      "num": 9,
      "title": "Free Time",
+     "title_es": "Tiempo libre",
+     "primary": "es",
      "subtitle": "Pasatiempos, habilidades, el clima, fechas e invitaciones",
      "color": "#00838F",
      "words": 117,
@@ -274,6 +292,8 @@
      "id": "a1-m10",
      "num": 10,
      "title": "Past and Future",
+     "title_es": "Pasado y futuro",
+     "primary": "es",
      "subtitle": "Lo que hiciste y lo que vas a hacer: past simple y be going to",
      "color": "#455A64",
      "words": 101,
@@ -282,5 +302,5 @@
    ]
   }
  ],
- "rev": "02b5420d2f3a"
+ "rev": "981a88f20b6e"
 }
