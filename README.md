@@ -15,11 +15,20 @@ Works on Android 7 or later. After that, Lumo updates itself from inside the app
 Open **<https://jpmatamorosp.github.io/lumo-app/>** in Safari, tap **Share → Add to Home
 Screen**. Needs iOS 18.4 or later.
 
+## Install on Windows or Mac
+
+- Windows: **[Lumo-Windows.exe](https://github.com/jpmatamorosp/lumo-app/releases/latest/download/Lumo-Windows.exe)**
+  (if SmartScreen warns: More info → Run anyway).
+- Mac: **[Lumo-Mac.dmg](https://github.com/jpmatamorosp/lumo-app/releases/latest/download/Lumo-Mac.dmg)**,
+  drag Lumo to Applications (the first time: System Settings → Privacy & Security → Open Anyway).
+
 ### En español
 
 1. En el teléfono o tablet, descarga **[Lumo.apk](https://github.com/jpmatamorosp/lumo-app/releases/latest/download/Lumo.apk)**.
 2. Ábrelo y, si Android lo pide, permite instalar apps de esta fuente.
 3. Abre Lumo y escribe tu nombre: tienes 15 días para probar la primera lección gratis.
+
+**En Windows o Mac:** descarga [Lumo-Windows.exe](https://github.com/jpmatamorosp/lumo-app/releases/latest/download/Lumo-Windows.exe) o [Lumo-Mac.dmg](https://github.com/jpmatamorosp/lumo-app/releases/latest/download/Lumo-Mac.dmg). La primera vez el sistema avisa porque no está firmado: en Windows «Más información → Ejecutar de todas formas»; en Mac «Ajustes del Sistema → Privacidad y seguridad → Abrir igualmente».
 
 **En iPhone:** abre **<https://jpmatamorosp.github.io/lumo-app/>** en Safari, toca **Compartir → Agregar a pantalla de inicio**. Necesita iOS 18.4 o más nuevo.
 
