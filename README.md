@@ -10,11 +10,18 @@ Learn American English from zero, at your own pace.
 
 Works on Android 7 or later. After that, Lumo updates itself from inside the app.
 
+## Install on iPhone
+
+Open **<https://jpmatamorosp.github.io/lumo-app/>** in Safari, tap **Share → Add to Home
+Screen**. Needs iOS 18.4 or later.
+
 ### En español
 
 1. En el teléfono o tablet, descarga **[Lumo.apk](https://github.com/jpmatamorosp/lumo-app/releases/latest/download/Lumo.apk)**.
 2. Ábrelo y, si Android lo pide, permite instalar apps de esta fuente.
 3. Abre Lumo y escribe tu nombre: tienes 15 días para probar la primera lección gratis.
+
+**En iPhone:** abre **<https://jpmatamorosp.github.io/lumo-app/>** en Safari, toca **Compartir → Agregar a pantalla de inicio**. Necesita iOS 18.4 o más nuevo.
 
 ---
 
